@@ -8,7 +8,7 @@
 
 ## Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on React js ...
 - 🌱 I’m currently learning Full Stack Development.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Prasanna-39).
 - 📫 How to reach me: prasanna347306@gmail.com
