@@ -6,14 +6,17 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]()
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]()
 
-Here are some ideas to get you started:
+## Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Full Stack Development.
--👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Prasanna-39).
-- 🤔 I’m looking for help with ...
+- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Prasanna-39).
 - 💬 Ask me about ...
 - 📫 How to reach me: prasanna347306@gmail.com ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: There are more than 7,300 cryptocurrencies currently out there. Interestingly,
+               the top 20 bitcoins account for 86 percent of the market.
+
+
+## My Absolute Favorites :
+- 💻   I love exploring new tech stack and building cool stuffs.
+- 📰   Reading  tech blogs & Blockchain news,updates.
