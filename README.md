@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)]()
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)]()
 
-## Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on React js.
 - 🌱 I’m currently learning Full Stack Development.
