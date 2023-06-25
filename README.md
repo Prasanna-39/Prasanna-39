@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on React js.
+- 🔭 I’m currently working on Full Stack Development Projects (ReactJS,NodeJS,MYSQL) .
 - 🌱 I’m currently learning Full Stack Development.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Prasanna-39).
 - 📫 How to reach me: prasanna347306@gmail.com
@@ -22,4 +22,4 @@
 
 ## My Absolute Favorites :
 - 💻   I love exploring new tech stack and building cool stuffs.
-- 📰   Reading  tech blogs & Blockchain news,updates.
+- 📰   Reading  tech blogs & Blockchain, AR,VR and XR news,updates.
