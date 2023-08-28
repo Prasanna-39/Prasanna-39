@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on Full Stack Development Projects (ReactJS,NodeJS,MYSQL) .
 - 🌱 I’m currently learning Full Stack Development.
-- 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/Prasanna-39).
+- 👨🏻‍💻 Most of my projects are available on Github.
 - 📫 How to reach me: prasanna347306@gmail.com
 - ⚡ Fun fact: There are more than 7,300 cryptocurrencies currently out there. Interestingly,
                the top 20 bitcoins account for 86 percent of the market.
