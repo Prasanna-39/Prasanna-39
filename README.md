@@ -16,10 +16,7 @@
 - 🌱 I’m currently learning Full Stack Development.
 - 👨🏻‍💻 Most of my projects are available on Github.
 - 📫 How to reach me: prasanna347306@gmail.com
-- ⚡ Fun fact: There are more than 7,300 cryptocurrencies currently out there. Interestingly,
-               the top 20 bitcoins account for 86 percent of the market.
-
 
 ## My Absolute Favorites :
 - 💻   I love exploring new tech stack and building cool stuffs.
-- 📰   Reading  tech blogs & Blockchain, AR,VR and XR news,updates.
+- 📰   Reading  tech blogs AR,VR and XR news,updates.
