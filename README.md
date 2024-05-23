@@ -12,8 +12,8 @@
 
 
 
-- 🔭 I’m currently working on Full Stack Development Projects (ReactJS,NodeJS,MYSQL) .
-- 🌱 I’m currently learning Full Stack Development.
+- 🔭 I’m currently working on XR Development Projects (Meta SKDs,C#,Unity,OpenXR) .
+- 🌱 I’m currently learning XR Development.
 - 👨🏻‍💻 Most of my projects are available on Github.
 - 📫 How to reach me: prasanna347306@gmail.com
 
