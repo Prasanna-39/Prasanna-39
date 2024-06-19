@@ -12,7 +12,7 @@
 
 
 
-- 🔭 I’m currently working on XR Development Projects (Meta SKDs,C#,Unity,OpenXR) .
+- 🔭 I’m currently working on Full Stack Development Projects (React JS,TS,Node JS) .
 - 🌱 I’m currently learning XR Development.
 - 👨🏻‍💻 Most of my projects are available on Github.
 - 📫 How to reach me: prasanna347306@gmail.com
