@@ -18,4 +18,4 @@
 
 ## My Absolute Favorites :
 - 💻   I love exploring new tech stack and building cool stuffs.
-- 📰   Reading  tech blogs AR,VR and XR news,updates.
+- 📰   Reading  tech blogs and  news updates.
